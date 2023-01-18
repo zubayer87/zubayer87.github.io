@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-1-08
 inline: true
 ---
 
-A simple inline announcement.
+Presented 6 posters at TRB and also had a presentation at AED 50 Urban Data Subcommittee.
