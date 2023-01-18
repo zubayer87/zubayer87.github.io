@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-1-1
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+A paper I co-authored is accepted at Accident Analysis and Prevention. 
+Link: https://www.sciencedirect.com/science/article/abs/pii/S0001457522003724 

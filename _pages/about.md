@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Post-Doctoral Scholar</a>. University of Central Florida.
 
 profile:
-  align: right
+  align: top
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Zubayer Islam, I am currently working as a Post-Doctoral Scholar in the University of Central Florida.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research portfolio covers a broad domain of smart cities in the field of transportation safety and mobility. My interdisciplinary background in `Civil Engineering (Ph.D.)`, `Computer Science (M.S.)`, and `Electrical Engineering (B.S.)` put me in a favorable position to pursue transportation engineering questions from an unique perspective. I have published several scientific articles relating to the application of transportation using machine learning and artificial intelligence in several prestigious journals. I have collaborated with several individuals from five different countries across diverse backgrounds. I have also assisted my supervisor in writing several grant applications. During my postdoc, I have mentored several students and have led several projects. I have served as the committee member of two Ph.D. and three M.S students.  I aim to tackle various challenges in smart sensing, smart mobility, big data analytics, artificial intelligence, and machine learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have also gained teaching experience as an Adjunct Faculty in the University of Central Florida where I have taught Introduction to Smart Cities.
