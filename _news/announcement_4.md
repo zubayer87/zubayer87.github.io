@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-1-1
+date: 2023-4-1
 inline: true
 ---
 Our paper is accepted at Analytical Methods in Accident Research! 
